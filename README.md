@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am GitHub Readme Generator's creator]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://media.giphy.com/media/GRVM7bxdn7yEFWTN6i/giphy.gif))
 
 **ILhankhondaker/ILhankhondaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

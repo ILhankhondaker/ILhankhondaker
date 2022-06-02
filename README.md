@@ -1,7 +1,6 @@
 ### Hi there 👋
-# Hi there, I'm Jesse - aka [codeSTACKr][youtube] 👋 
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
+![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 **ILhankhondaker/ILhankhondaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

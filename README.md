@@ -2,7 +2,8 @@
 
 ![I am GitHub Readme Generator's creator](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
 
-<img align="center" alt="HTML5" width="26px" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" style="padding-right:10px;" />
+<img align="center" alt="HTML5" width="26px" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" style="padding-right:10px; display: flex;
+  align-items: center;" />
 
 **ILhankhondaker/ILhankhondaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

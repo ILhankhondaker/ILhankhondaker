@@ -11,15 +11,15 @@
  
 <a href="https://www.linkedin.com/in/ilhan-khondaker-9a46b01b5/" target="blank"><img  align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-                alt="ilhna" height="30" width="40" /></a>
+                alt="ilhna" height="30" width="40" />Lihkedin</a>
 
 <a href="https://www.facebook.com/ilhan.khondaker/" target="blank"><img align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-                alt="ilhankhondaker" height="30" width="40" /></a> 
+                alt="ilhankhondaker" height="30" width="40" />Facebook</a> 
 
 <a href="https://www.instagram.com/ilhankhondaker/?hl=en" target="blank"><img align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-                alt="ilhankhondaker" height="30" width="40" /></a>
+                alt="ilhankhondaker" height="30" width="40" />Instagram</a>
 
 <a href="https://www.behance.net/ilhankhondaker " target="blank"><img align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg"

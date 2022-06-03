@@ -7,7 +7,7 @@
 <div display:"inline"  style=" display:flex;">
 <a href="https://twitter.com/IlhanKhondaker" target="blank"><img align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-                alt="ilhankhondaker" height="30" width="40" /></a>
+                alt="ilhankhondaker" height="30" width="40" />Twitter</a>
  
 <a href="https://www.linkedin.com/in/ilhan-khondaker-9a46b01b5/" target="blank"><img  align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -23,15 +23,15 @@
 
 <a href="https://www.behance.net/ilhankhondaker " target="blank"><img align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg"
-                alt="ilhankhondaker" height="30" width="40" /></a>
+                alt="ilhankhondaker" height="30" width="40" />Behance</a>
 
 <a href="https://www.youtube.com/channel/UCYzmpgr_xPjbyU7P_xWz2zw" target="blank"><img align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-                alt="12" height="30" width="40" /></a>
+                alt="12" height="30" width="40" />Youtube</a>
 
 <a href="https://www.google.com/search?q=Ilhan+khondaker" target="blank"><img align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg"
-                alt="12" height="30" width="40" /></a>
+                alt="12" height="30" width="40" />Google</a>
                 
                 
 </div>        

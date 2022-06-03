@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ilhan Khondaker</h1>
 
 
-   <h3 align="left">Connect with me:</h3>
-    <p align="left">
+<h3 align="left">Connect with me:</h3>
+  <p align="left">
 <a href="https://twitter.com/IlhanKhondaker" target="blank"><img align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
                 alt="ilhankhondaker" height="30" width="40" /></a>

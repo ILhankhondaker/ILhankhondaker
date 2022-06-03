@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ilhan Khondaker</h1>
 
 
-[![website](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)](https://codestackr.com#gh-light-mode-only)
 
 ![I am GitHub Readme Generator's creator](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
 
@@ -78,3 +76,22 @@
 <br />
 
 ---
+
+
+
+<p align="left">
+<a href="https://dev.to/ilhankhondaker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ilhankhondaker" height="30" width="40" /></a>
+<a href="https://twitter.com/ilhankhondaker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ilhankhondaker" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ilhna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ilhna" height="30" width="40" /></a>
+<a href="https://fb.com/ilhankhondaker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ilhankhondaker" height="30" width="40" /></a>
+<a href="https://instagram.com/ilhankhondaker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ilhankhondaker" height="30" width="40" /></a>
+<a href="https://www.behance.net/ilhankhondaker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ilhankhondaker" height="30" width="40" /></a>
+<a href="https://medium.com/ilhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="ilhan" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="12" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/ilhankhondaker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="ilhankhondaker" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/ilhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ilhan" height="30" width="40" /></a>
+<a href="https://discord.gg/ilhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ilhan" height="30" width="40" /></a>
+</p>
+
+
+

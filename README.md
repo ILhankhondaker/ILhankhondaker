@@ -1,13 +1,9 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Ilhan Khondaker</h1>
 
 ![I am GitHub Readme Generator's creator](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
 
-[![website](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg)](https://codestackr.com#gh-light-mode-only)
 
-[![YouTube Channel Subscribers]<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ilhan KHondaker )  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/IlhanKhondkaer /) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ilhankhondkaer /)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ilhankhondaker) icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](sdf) 
+<a href="https://dev.to/ilhankhondaker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ilhankhondaker" height="30" width="40" /></a>
 
 **ILhankhondaker/ILhankhondaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

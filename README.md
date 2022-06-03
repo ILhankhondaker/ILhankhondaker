@@ -2,12 +2,13 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<div style=" display: flex;
+  align-items: center;">
 <a href="https://twitter.com/IlhanKhondaker" target="blank"><img align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
                 alt="ilhankhondaker" height="30" width="40" /></a>
  
- <a href="https://www.linkedin.com/in/ilhan-khondaker-9a46b01b5/" target="blank"><img align="center"
+<a href="https://www.linkedin.com/in/ilhan-khondaker-9a46b01b5/" target="blank"><img align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
                 alt="ilhna" height="30" width="40" /></a>
 
@@ -32,7 +33,7 @@
                 alt="12" height="30" width="40" /></a>
                 
                 
-</p>        
+</div>        
 
 ![I am GitHub Readme Generator's creator](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
 

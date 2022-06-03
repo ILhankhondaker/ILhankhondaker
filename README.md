@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ilhan Khondaker</h1>
 
 
+![I am GitHub Readme Generator's creator](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
 
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">💕Connect with me:</h3>
 <div display:"inline"  style=" display:flex;">
 <a href="https://twitter.com/IlhanKhondaker" target="blank"><img align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
@@ -36,22 +36,21 @@
                 
 </div>        
 
-![I am GitHub Readme Generator's creator](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
+
 
 
 
 **ILhankhondaker/ILhankhondaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **Web development**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning **programming**
+
+- 👯 I’m looking to collaborate with **programmer**
+
+- 💬 Ask me about **web development**
+
+- 📫 How to reach me **ilhankhondaker@gmail.com**
 
 
 

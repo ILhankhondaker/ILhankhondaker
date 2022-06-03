@@ -2,6 +2,7 @@
 
 ![I am GitHub Readme Generator's creator](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
 
+ <img align="center"  src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="" srcset="">
 
 <a href="https://dev.to/ilhankhondaker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ilhankhondaker" height="30" width="40" /></a>
 

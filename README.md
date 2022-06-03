@@ -9,7 +9,7 @@
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
                 alt="ilhankhondaker" height="30" width="40" /></a>
  
-<a href="https://www.linkedin.com/in/ilhan-khondaker-9a46b01b5/" target="blank"><img align="center"
+<a href="https://www.linkedin.com/in/ilhan-khondaker-9a46b01b5/" target="blank"><img display:"inline" align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
                 alt="ilhna" height="30" width="40" /></a>
 

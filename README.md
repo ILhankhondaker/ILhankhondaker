@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ilhan Khondaker</h1>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">💕Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/IlhanKhondaker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ilhankhondaker" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ilhan-khondaker-9a46b01b5/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ilhna" height="30" width="40" /></a>
@@ -16,7 +16,7 @@
 
 ![I am GitHub Readme Generator's creator](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
 
-<h3 align="left">💕Connect with me:</h3>
+
         
 
 

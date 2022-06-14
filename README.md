@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ilhan Khondaker</h1>
+<h1 align="center">Hi 👋, I'm <a href="https://ilhan-khondaker.netlify.app/">Ilhan Khondaker</a> 🐱‍🏍</h1>
+  
 <h4 align="center">👩‍💻 A Passionate Full Stack Developer From Bangladesh 💻</h4>
 <h3 align="left">💕Connect with me:</h3>
 <p align="left">
@@ -17,15 +18,15 @@
 
 ![I am GitHub Readme Generator's creator](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
 
-- 🔭 I’m currently working on **Web development**
+⫸ I’m currently working on **Web development**
 
-- 🌱 I’m currently learning **programming**
+⫸ I’m currently learning **programming**
 
-- 👯 I’m looking to collaborate with **programmer**
+⫸ I’m looking to collaborate with **programmer**
 
-- 💬 Ask me about **web development**
+⫸ Ask me about **web development**
 
-- 📫 How to reach me **ilhankhondaker@gmail.com**
+⫸ How to reach me **ilhankhondaker@gmail.com**
 
 
 
